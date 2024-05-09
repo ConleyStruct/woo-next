@@ -9,8 +9,7 @@
     ],
     "require": {
         "composer/installers": "^2.2",
-        "imranhsayed/headless-cms": "^1.7",
-        "wpackagist-plugin/advanced-custom-fields": "5.9.1",
+        "wpackagist-plugin/advanced-custom-fields": "^6.2",
         "yoast/wordpress-seo": "22.7-RC3",
         "automattic/woocommerce": "^3.1"
     },

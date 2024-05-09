@@ -205,60 +205,17 @@
             "install-path": "./installers"
         },
         {
-            "name": "imranhsayed/headless-cms",
-            "version": "1.7.0",
-            "version_normalized": "1.7.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/imranhsayed/headless-cms.git",
-                "reference": "25e10c1bc8e8acb199a28aa94b79f312ac8b7aff"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/imranhsayed/headless-cms/zipball/25e10c1bc8e8acb199a28aa94b79f312ac8b7aff",
-                "reference": "25e10c1bc8e8acb199a28aa94b79f312ac8b7aff",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.4.0"
-            },
-            "time": "2021-04-25T19:08:07+00:00",
-            "type": "wordpress-plugin",
-            "installation-source": "dist",
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "GPL-3.0+"
-            ],
-            "authors": [
-                {
-                    "name": "Imran Sayed",
-                    "email": "codeytek.academy@gmail.com"
-                }
-            ],
-            "description": "A WordPress plugin that adds features to use WordPress as a headless CMS with any front-end environment using REST API",
-            "homepage": "https://github.com/imranhsayed/headless-cms",
-            "keywords": [
-                "plugin",
-                "wordpress"
-            ],
-            "support": {
-                "issues": "https://github.com/imranhsayed/headless-cms/issues",
-                "source": "https://github.com/imranhsayed/headless-cms/tree/1.7.0"
-            },
-            "install-path": "../../wp-content/plugins/headless-cms"
-        },
-        {
             "name": "wpackagist-plugin/advanced-custom-fields",
-            "version": "5.9.1",
-            "version_normalized": "5.9.1.0",
+            "version": "6.2.9",
+            "version_normalized": "6.2.9.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/advanced-custom-fields/",
-                "reference": "tags/5.9.1"
+                "reference": "tags/6.2.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/advanced-custom-fields.5.9.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/advanced-custom-fields.6.2.9.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"

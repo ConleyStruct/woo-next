@@ -1,7 +1,7 @@
 services:
   composer:
     image: composer
-    command: update
+    command: update && install
     volumes:
       - ./wordpress:/app
 
@@ -29,6 +29,8 @@ services:
       - 8183:80
 
   wordpress:
+    build:
+      context: ./config/docker/wordpress
     depends_on:
       - mysql
       - composer
