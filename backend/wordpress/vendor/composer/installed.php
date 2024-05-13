@@ -37,6 +37,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'imranhsayed/headless-cms' => array(
+            'pretty_version' => '1.7.0',
+            'version' => '1.7.0.0',
+            'reference' => '25e10c1bc8e8acb199a28aa94b79f312ac8b7aff',
+            'type' => 'wordpress-plugin',
+            'install_path' => __DIR__ . '/../../wp-content/plugins/headless-cms',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'wpackagist-plugin/advanced-custom-fields' => array(
             'pretty_version' => '6.2.9',
             'version' => '6.2.9.0',

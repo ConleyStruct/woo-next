@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e398ab8f5f6b199c2f381ea263e4c305",
+    "content-hash": "ec1a86ed97f03630fbfedf5010630cd0",
     "packages": [
         {
             "name": "automattic/woocommerce",
@@ -203,6 +203,46 @@
                 }
             ],
             "time": "2022-08-20T06:45:11+00:00"
+        },
+        {
+            "name": "imranhsayed/headless-cms",
+            "version": "1.7.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/imranhsayed/headless-cms.git",
+                "reference": "25e10c1bc8e8acb199a28aa94b79f312ac8b7aff"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/imranhsayed/headless-cms/zipball/25e10c1bc8e8acb199a28aa94b79f312ac8b7aff",
+                "reference": "25e10c1bc8e8acb199a28aa94b79f312ac8b7aff",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Imran Sayed",
+                    "email": "codeytek.academy@gmail.com"
+                }
+            ],
+            "description": "A WordPress plugin that adds features to use WordPress as a headless CMS with any front-end environment using REST API",
+            "homepage": "https://github.com/imranhsayed/headless-cms",
+            "keywords": [
+                "plugin",
+                "wordpress"
+            ],
+            "support": {
+                "issues": "https://github.com/imranhsayed/headless-cms/issues",
+                "source": "https://github.com/imranhsayed/headless-cms/tree/1.7.0"
+            },
+            "time": "2021-04-25T19:08:07+00:00"
         },
         {
             "name": "wpackagist-plugin/advanced-custom-fields",
